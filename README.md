@@ -1,2 +1,14 @@
-# Little Travel Girl Blog
- 
+# Southeast Asia Travel Blog
+
+Welcome to my travel blog, [Little Travel Girl](http://www.littletravelgirl.com), dedicated to exploring the beautiful and diverse regions of Southeast Asia. This site showcases my experiences, tips, and insights as I journey through various countries, cultures, and landscapes.
+
+## Features
+
+- **Responsive Design**: The blog is designed to be mobile-friendly, ensuring an optimal viewing experience across devices.
+- **Blog Posts**: Includes various articles covering travel tips, destination highlights, and personal experiences.
+- **Photo Galleries**: Visual storytelling through photo galleries that capture the essence of each destination.
+
+## Technologies Used
+
+- **WordPress**: Content management system for creating and managing the blog.
+
