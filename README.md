@@ -1,6 +1,6 @@
 # Travel Blog
 
-Welcome to [Little Travel Girl](http://www.littletravelgirl.com), a travel blog dedicated to exploring the beautiful and diverse regions of Southeast Asia. This site was created for my client to showcase their experiences, tips, and insights as they journey through various countries, cultures, and landscapes.
+Welcome to [Little Travel Girl](http://www.littlegirljourney.com), a travel blog dedicated to exploring the beautiful and diverse regions of Southeast Asia. This site was created for my client to showcase their experiences, tips, and insights as they journey through various countries, cultures, and landscapes.
 
 ## Features
 
